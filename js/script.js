@@ -19,3 +19,5 @@ console.log(tieneHref);
 const linkWikipedia = document.getElementById('link_wikipedia');
 const hrefWikipedia = linkWikipedia.getAttribute('href');
 console.log(hrefWikipedia);
+
+//6- Ejercicio finalizado para la revision docente
